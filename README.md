@@ -12,7 +12,7 @@ V : Value
 
 L : Lightness
 
-Group :
+Groups :
 
     0 : Fenty Beauty's PRO FILT'R Foundation Only
 
