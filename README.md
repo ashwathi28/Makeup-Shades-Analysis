@@ -40,3 +40,7 @@ BIPOC stands for "Black, Indigenous, People of Color".
 Data Collection
 Data pre-processing
 Exploratory Data Analysis(EDA)
+
+## Contributors:
+
+Ashwathi Ajayan Nambiar : https://github.com/ashwathi28
